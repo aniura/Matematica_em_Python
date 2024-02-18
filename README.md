@@ -13,4 +13,4 @@ Tutoriais na forma de Notebooks Jupyter para dois encontros de duas horas cada u
 
 ## No mais, fica aqui o nosso convite ##  
 
-Após a oficina, você pode escolher temas para aprofundar de acordo com seus interesses e particularmente considerar o uso de Python nas aulas de matemática no Ensino Médio. :wink:
+Após a oficina, você pode aprofundar no tema de acordo com seus interesses e particularmente considerar o uso de Python nas aulas de matemática no Ensino Médio. :wink:

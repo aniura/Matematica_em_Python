@@ -1,6 +1,12 @@
 ## Matemática em Python - Introdução ao ecosistema científico de Python ##
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aniura/Matematica_em_Python/main)
+
 Esta oficina traz uma pequena mostra das possibilidades da linguagem Python, em particular das bibliotecas [NumPy](https://numpy.org/) e [Matplotlib](https://matplotlib.org/) como apoio à atividade matemática e também ao seu ensino e aprendizagem. Todas as noções utilizadas são compreensíveis com conhecimentos de Ensino Médio.
+
+Este repositório possui uma versão Binder que pode ser acessada [aqui](https://notebooks.gesis.org/binder/jupyter/user/aniura-matematica_em_python-qc8k86xq/lab)
+
+Link: [https://notebooks.gesis.org/binder/jupyter/user/aniura-matematica_em_python-qc8k86xq/lab](https://notebooks.gesis.org/binder/jupyter/user/aniura-matematica_em_python-qc8k86xq/lab). 
 
 ### Conteúdos: ###
 
